@@ -1,5 +1,5 @@
 ## Hi there 👋
-## 👋 Hello, I'm Ramy Solanki!
+## I'm Ramy Solanki!
 
 🚀 **Software Engineer | Data Engineer | Cloud Enthusiast | AI & ML Practitioner**  
 🔍 Passionate about **backend development, distributed systems, cloud computing, and AI-driven applications**  
