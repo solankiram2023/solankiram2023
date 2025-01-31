@@ -10,16 +10,6 @@ I thrive in solving complex problems, optimizing systems, and leveraging technol
 ---
 
 ### 🛠 **Tech Stack**
-- **Languages:** Python, Java, SQL, JavaScript, TypeScript, C++, Go, C#
-- **Databases:** PostgreSQL, MySQL, MongoDB, Snowflake, SQL Server, ChromaDB, Pinecone
-- **Frameworks & Tools:** FastAPI, Flask, React, Node.js, Django, Angular, Express.js, Tailwind, Bootstrap
-- **Cloud & DevOps:** AWS (EC2, S3, RDS, Lambda), GCP, Docker, Kubernetes, CI/CD (Jenkins, GitHub Actions, Ansible)
-- **AI & Data Science:** Pandas, Matplotlib, OpenAI, Hugging Face, LangGraph, PyTorch, LlamaIndex
-- **Other:** Power BI, Tableau, Apache Airflow, Microsoft CRM Dynamics
-
----
-
-### 🛠 **Tech Stack**
 
 #### 🔹 **Programming Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
