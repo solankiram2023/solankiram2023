@@ -12,7 +12,7 @@ I thrive in solving complex problems, optimizing systems, and leveraging technol
 
 ### 📚 **Relevant Coursework**
 - **Graduate Courses:** Application Engineering & Development, Data Management and Database Design, Web Design & UX, Data Science Engineering Methods, Big Data Systems & Intelligence Analytics, Program Structures & Algorithm, Advances in Data Science & Architecture, Generative Artificial Intelligence.
-- **Undergraduate Courses:** Machine Learning, Object-Oriented Design in C++, Computer Networks & Protocols, Computer Vision, Programming in C#, Problem Solving using Computers in Java, Real-Time Operating Systems, Real-Time Embedded Systems, Embedded System Design, MicroController & Microprocessors.
+- **Undergraduate Courses:** Machine Learning, Object-Oriented Design in C, Computer Networks & Protocols, Computer Vision, Programming in C#, Problem Solving using Computers in Java, Real-Time Operating Systems, Real-Time Embedded Systems, Embedded System Design, MicroController & Microprocessors.
 
 ---
 
