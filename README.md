@@ -1,11 +1,13 @@
-## Hi there 👋
-## I'm Ramy Solanki!
+Hi there 👋
+I'm Ramy Solanki!
+🚀 Software Engineer | Data Engineer | Cloud Enthusiast | AI & ML Practitioner
+🔍 Passionate about backend development, distributed systems, cloud computing, and AI-driven applications
+🎓 M.S. in Information Systems at Northeastern University (Graduating May 2025)
+🎓 B.Tech in Electronics Instrumentation & Control at Manipal Institute of Technology, India (Graduated 2018)
 
-🚀 **Software Engineer | Data Engineer | Cloud Enthusiast | AI & ML Practitioner**  
-🔍 Passionate about **backend development, distributed systems, cloud computing, and AI-driven applications**  
-🎓 **M.S. in Information Systems** at **Northeastern University** *(Graduating May 2025)*  
+I thrive in solving complex problems, optimizing systems, and leveraging technology to build scalable, high-performance applications. With experience in backend engineering, data processing, and AI, I love working on projects that drive real-world impact.
 
-I thrive in solving complex problems, optimizing systems, and leveraging technology to build **scalable, high-performance applications**. With experience in **backend engineering, data processing, and AI**, I love working on projects that drive real-world impact.
+
 
 ---
 
