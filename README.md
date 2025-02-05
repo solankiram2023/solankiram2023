@@ -132,22 +132,6 @@ I thrive in solving complex problems, optimizing systems, and leveraging technol
 
 ---
 
-### 🔬 **Academic Projects**
-🔹 **GAIA Benchmarking App** ([GitHub Repo](https://github.com/Big-Data-IA-Team-7/gaia-openai-validation))  
-🔹 **OpenAI Model Evaluation Tool** ([GitHub Repo](https://github.com/BigDataIA-Fall2024-TeamB6/Assignment2))  
-🔹 **Multi-Modal RAG Application** ([GitHub Repo](https://github.com/BigDataIA-Fall2024-TeamB6/Assignment3))  
-🔹 **Agent-Based Research Tool** ([GitHub Repo](https://github.com/BigDataIA-Fall2024-TeamB6/Assignment4))  
-🔹 **AI-Powered Email Workflow Assistant** ([GitHub Repo](https://github.com/BigDataIA-Fall2024-TeamB6/Assignment3))  
-🔹 **Customer Segmentation Clustering Analysis** ([GitHub Repo](https://github.com/solankiram2023/Data-Science-Engineering-Methods/blob/main/Data_Cleaning%2C_Feature_Selection%2C_Modeling_and_Interpretability_Assignment4_DSEM.ipynb))  
-🔹 **City Tram Conveyance Management System** (SQL Server, Azure Data Studio, Python, PowerBI)  
-🔹 **IoT-Based Systematic Weather Data Solicitation** (PHP, Debian, Apache Web Server, Raspberry Pi)  
-
-📄 **Research Papers:**
-- [Predictive Modeling for Environmental Telemetry Data & Damage Prediction](https://www.irjmets.com/uploadedfiles/paper/issue_11_november_2022/31545/final/fin_irjmets1669224449.pdf)
-- **Load Cell and FSR-Based Hand Assistive Device** *(Published in IRJMETS)*
-
----
-
 ### 📈 **GitHub Stats**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=solankiram2023&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solankiram2023&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
