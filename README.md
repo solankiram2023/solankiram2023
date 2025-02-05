@@ -16,6 +16,21 @@ I thrive in solving complex problems, optimizing systems, and leveraging technol
 
 ---
 
+### 💼 **Work Experience**
+
+🔹 **Data Scientist | Quest Global (ExxonMobil Assets)** *(Jan 2019 – Jan 2023)*  
+- Developed **scalable ETL pipelines** using **Airflow** to extract, transform, and load data from **Hugging Face** into **MySQL & GCP**, reducing manual effort by **35%**.  
+- Optimized API request processing with **FastAPI**, enabling efficient communication between OpenAI models, databases, and cloud storage.  
+- Designed **Power BI dashboards**, improving decision-making efficiency by **30%**, and automated backend tasks using **Python & SharePoint**, cutting manual input time by **50%**.  
+- **Awards:** 🏆 *On The Fly Award (Nov 2020, Sept 2021), Popular Choice Award (Mar 2021)*  
+
+🔹 **Software Engineer | Toshiba Mitsubishi-Electric Industrial Systems Corporation** *(July 2018 – Oct 2018)*  
+- Engineered enhancements to **Microsoft Dynamics CRM**, increasing customer engagement and loyalty by **15%**.  
+- Leveraged CRM Dynamics to improve business agility, driving **15% growth** through strategic social capabilities.  
+- Developed **RESTful APIs** and **JavaScript-based** solutions, improving operational efficiency by **25%**.  
+
+---
+
 ### 🔬 **Academic Projects**  
 
 🔹 **GAIA Benchmarking App** [🔗 GitHub Repo](https://github.com/Big-Data-IA-Team-7/gaia-openai-validation)  
@@ -119,16 +134,6 @@ I thrive in solving complex problems, optimizing systems, and leveraging technol
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-007ACC?style=for-the-badge&logo=apacheairflow&logoColor=white)
-
-### 💼 **Work Experience**
-🔹 **Data Engineer | Quest Global (ExxonMobil Assets) (2019-2023)**
-- **Optimized** Power BI dashboards, improving decision-making efficiency by **30%**.
-- **Automated** routine engineering tasks, reducing processing time by **35%** via **Python & SharePoint**.
-- **Streamlined** pump form filling processes, cutting manual input time by **50%** using Python & VBA scripting.
-
-🔹 **Software Engineer | Toshiba Mitsubishi-Electric (2018)**
-- **Enhanced** Microsoft Dynamics CRM, boosting customer engagement by **15%**.
-- **Developed** RESTful APIs and software solutions, improving operational efficiency by **25%**.
 
 ---
 
