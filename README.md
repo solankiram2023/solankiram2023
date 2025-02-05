@@ -19,9 +19,10 @@ I thrive in solving complex problems, optimizing systems, and leveraging technol
 ### 💼 **Work Experience**
 
 🔹 **Data Scientist | Quest Global (ExxonMobil Assets)** *(Jan 2019 – Jan 2023)*  
-- Developed **scalable ETL pipelines** using **Airflow** to extract, transform, and load data from **Hugging Face** into **MySQL & GCP**, reducing manual effort by **35%**.  
-- Optimized API request processing with **FastAPI**, enabling efficient communication between OpenAI models, databases, and cloud storage.  
+- Developed **scalable ETL pipelines** using **Airflow** to extract, transform, and load data into **MySQL & GCP**, reducing manual effort by **35%**.  
+- Optimized API request processing with **FastAPI**, enabling efficient communication between backend models, databases, and cloud storage.  
 - Designed **Power BI dashboards**, improving decision-making efficiency by **30%**, and automated backend tasks using **Python & SharePoint**, cutting manual input time by **50%**.  
+- Enhanced **document parsing and indexing** with **PyPDF and SQL-based search optimizations** to improve retrieval efficiency.  
 - **Awards:** 🏆 *On The Fly Award (Nov 2020, Sept 2021), Popular Choice Award (Mar 2021)*  
 
 🔹 **Software Engineer | Toshiba Mitsubishi-Electric Industrial Systems Corporation** *(July 2018 – Oct 2018)*  
