@@ -32,50 +32,6 @@ I thrive in solving complex problems, optimizing systems, and leveraging technol
 
 ---
 
-### 🔬 **Academic Projects**  
-
-🔹 **GAIA Benchmarking App** [🔗 GitHub Repo](https://github.com/Big-Data-IA-Team-7/gaia-openai-validation)  
-- Developed a benchmarking application for OpenAI models using **GAIA datasets** and **Streamlit UI**.  
-- Implemented **AWS S3 & RDS** for cloud-based storage and retrieval of test data.  
-- Enabled structured validation testing with predefined test cases for AI model evaluation.  
-
-🔹 **OpenAI Model Evaluation Tool** [🔗 GitHub Repo](https://github.com/BigDataIA-Fall2024-TeamB6/Assignment2)  
-- Designed an interactive **Streamlit & FastAPI-based** tool to evaluate OpenAI models on real-world tasks.  
-- Implemented **JWT authentication**, **Dockerized deployment**, and secured **AWS RDS** storage.  
-- Automated benchmark testing using **Airflow pipelines** for scalable AI model assessments.  
-
-🔹 **Multi-Modal RAG Application** [🔗 GitHub Repo](https://github.com/BigDataIA-Fall2024-TeamB6/Assignment3)  
-- Built a **Retrieval-Augmented Generation (RAG) system** for document analysis using CFA publications.  
-- Integrated **FastAPI, Snowflake, and ChromaDB** for scalable, high-speed data retrieval.  
-- Designed **Airflow-based ETL pipelines** for automated content extraction and indexing.  
-
-🔹 **Agent-Based Research Tool** [🔗 GitHub Repo](https://github.com/BigDataIA-Fall2024-TeamB6/Assignment4)  
-- Developed a **multi-agent research tool** with **LangGraph, Coagents, and Pinecone vector embeddings**.  
-- Built an **interactive document analysis** workflow with multi-modal RAG-based querying.  
-- Automated document parsing, indexing, and research note export using **Airflow & Docker**.  
-
-🔹 **Outlook Email Management Assistant** [🔗 GitHub Repo](https://github.com/BigDataIA-Fall2024-TeamB6/Assignment3)  
-- Designed an **AI-powered email workflow assistant** to automate email categorization and responses.  
-- Integrated **LangGraph multi-agent architecture** with **Microsoft Graph API** for inbox management.  
-- Enabled **semantic search** on email history using **Milvus embeddings** for context-based retrieval.  
-
-🔹 **Customer Segmentation Clustering Analysis** [🔗 GitHub Repo](https://github.com/solankiram2023/Data-Science-Engineering-Methods/blob/main/Data_Cleaning%2C_Feature_Selection%2C_Modeling_and_Interpretability_Assignment4_DSEM.ipynb)  
-- Conducted **customer segmentation** using **ML clustering techniques** on structured datasets.  
-- Optimized feature selection, **handled missing data**, and improved model accuracy using **AutoML**.  
-- Evaluated cluster performance with **confusion matrices, outlier detection, and model interpretability**.  
-
-🔹 **City Tram Conveyance Management System**  
-- Developed a **SQL-based management system** for monitoring urban tram operations.  
-- Integrated **PowerBI dashboards** for real-time performance analytics and route optimization.  
-- Improved operational efficiency by **30%** through data-driven **decision-making insights**.  
-
-🔹 **IoT-Based Systematic Weather Data Solicitation**  
-- Built an **IoT-based real-time weather monitoring system** using **Raspberry Pi and DHT11 sensor**.  
-- Designed a **web dashboard** for remote access and visualization of temperature/humidity trends.  
-- Used **Apache Web Server** to plot sensor readings and enable live data tracking.  
-
----
-
 ### 📄 **Research Papers**  
 
 📌 **[Predictive Modeling for Environmental Telemetry Data & Damage Prediction](https://www.irjmets.com/uploadedfiles/paper/issue_11_november_2022/31545/final/fin_irjmets1669224449.pdf) *(Published in IRJMETS)*  
